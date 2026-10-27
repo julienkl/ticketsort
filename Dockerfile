@@ -10,6 +10,9 @@ ARG TRAIN_DATA=data/samples/tickets_sample.csv
 RUN python -m src.data.prepare --input ${TRAIN_DATA} && python -m src.model.train
 
 FROM python:3.12-slim
+# Rattache l'image publiée sur ghcr.io au dépôt GitHub (droits et page du paquet)
+LABEL org.opencontainers.image.source="https://github.com/julienkl/ticketsort"
+LABEL org.opencontainers.image.description="TicketSort - API de classification de tickets de support"
 WORKDIR /app
 ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
 COPY requirements.txt .

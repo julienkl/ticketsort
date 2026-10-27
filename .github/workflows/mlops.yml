@@ -14,7 +14,7 @@ on:
 
 env:
   MIN_F1: ${{ github.event.inputs.min_f1 || '0.80' }}
-  IMAGE: ghcr.io/${{ github.repository }}-api
+  IMAGE: ghcr.io/${{ github.repository }}
 
 jobs:
   tests:
