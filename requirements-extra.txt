@@ -1,0 +1,9 @@
+# Dépendances optionnelles (benchmark complet, suivi d'expériences, application, rapports de dérive visuels)
+-r requirements.txt
+streamlit>=1.38
+mlflow>=2.16
+codecarbon>=2.7
+evidently>=0.4
+# transformers et torch seulement pour le candidat hf_zero_shot du benchmark (lourd)
+# transformers>=4.44
+# torch>=2.4

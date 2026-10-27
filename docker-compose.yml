@@ -1,0 +1,36 @@
+services:
+  api:
+    build: .
+    image: ticketsort-api:local
+    environment:
+      API_KEYS: ${API_KEYS:?définir API_KEYS dans .env}
+      LOW_CONFIDENCE: ${LOW_CONFIDENCE:-0.5}
+    ports: ["8000:8000"]
+    volumes:
+      - ./monitoring:/app/monitoring   # journal des prédictions pour la dérive
+
+  app:
+    build: { context: ., dockerfile: app/Dockerfile }
+    environment:
+      API_URL: http://api:8000
+      APP_API_KEY: ${APP_API_KEY:?définir APP_API_KEY dans .env}
+    ports: ["8501:8501"]
+    depends_on: [api]
+
+  prometheus:
+    image: prom/prometheus:v2.54.1
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./monitoring/alerts.yml:/etc/prometheus/alerts.yml:ro
+    ports: ["9090:9090"]
+    depends_on: [api]
+
+  grafana:
+    image: grafana/grafana:11.2.0
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_PASSWORD:-admin}
+    volumes:
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards:ro
+    ports: ["3000:3000"]
+    depends_on: [prometheus]

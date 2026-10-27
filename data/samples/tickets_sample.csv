@@ -1,0 +1,801 @@
+ticket_id,texte,categorie
+T00696,Impossible d'installer Chrome sur mon poste svp,logiciel
+T00667,Câble réseau défectueux au open space (3e fois cette semaine) pouvez-vous regarder,reseau
+T00063,Demande d'accès au dossier partagé Word (3e fois cette semaine) merci,messagerie
+T00533,Compte bloqué après plusieurs tentatives depuis hier merci,acces
+T00066,Impossible d'installer Word sur mon poste merci ça marche plus,logiciel
+T00621,La mise à jour de Power BI a échoué c'est bloquant svp,logiciel
+T00346,Chrome est très lent depuis la dernière version pouvez-vous regarder merci,logiciel
+T00490,L'imprimante du open space affiche un bourrage papier ça marche plus pouvez-vous regarder,materiel
+T00760,L'écran de mon poste fixe reste noir depuis hier ça marche plus,materiel
+T00456,Excel est très lent depuis la dernière version (3e fois cette semaine) merci,logiciel
+T00065,L'écran de mon ordinateur reste noir merci c'est bloquant,materiel
+T00286,La mise à jour de Chrome a échoué pouvez-vous regarder ça marche plus,logiciel
+T00635,L'écran de mon PC portable reste noir (3e fois cette semaine) urgent,materiel
+T00067,Le wifi du siège coupe sans arrêt ça marche plus (3e fois cette semaine),reseau
+T00327,Pas de connexion internet au bureau c'est bloquant,reseau
+T00395,Le clavier du ordinateur ne répond plus merci cordialement,materiel
+T00244,Mon mot de passe ne fonctionne plus sur le VPN ça marche plus ça marche plus,messagerie
+T00377,Pas de connexion internet au open space pouvez-vous regarder pouvez-vous regarder,reseau
+T00610,Besoin d'un nouveau chargeur pour mon poste fixe merci je suis en télétravail,materiel
+T00526,l'ERP plante à l'ouverture merci ça marche plus,logiciel
+T00658,"Mot de passe expiré, je ne peux plus me connecter je suis en télétravail pouvez-vous regarder",acces
+T00529,Ma boîte mail est pleine je suis en télétravail ça marche plus,messagerie
+T00622,Le réseau est très lent au siège (3e fois cette semaine) merci,reseau
+T00721,Excel est très lent depuis la dernière version cordialement cordialement,logiciel
+T00360,Mon PC est lent quand j'ouvre Excel c'est bloquant cordialement,materiel
+T00030,L'écran de mon ordinateur reste noir ça marche plus svp,materiel
+T00260,Mon poste fixe fait un bruit étrange et chauffe depuis hier cordialement,materiel
+T00637,Le réseau est très lent au open space merci,reseau
+T00746,Demande d'installation de Word pouvez-vous regarder urgent,logiciel
+T00570,Mon PC portable fait un bruit étrange et chauffe (3e fois cette semaine) depuis hier,materiel
+T00215,Mon poste fixe ne s'allume plus depuis ce matin ça marche plus ça marche plus,materiel
+T00078,Je n'ai pas les droits pour ouvrir SAP c'est bloquant depuis hier,acces
+T00578,Réinitialisation de mon mot de passe svp cordialement pouvez-vous regarder,logiciel
+T00383,"Mot de passe expiré, je ne peux plus me connecter (3e fois cette semaine) je suis en télétravail",acces
+T00039,Impossible d'envoyer un mail avec une pièce jointe merci,messagerie
+T00023,Réinitialisation de mon mot de passe svp cordialement ça marche plus,acces
+T00692,Pas de connexion internet au site de Lyon svp,reseau
+T00398,Réinitialisation de mon mot de passe svp c'est bloquant urgent,acces
+T00796,Excel plante à l'ouverture merci,logiciel
+T00741,Demande d'installation de Excel depuis hier svp,logiciel
+T00139,Je ne reçois plus d'emails dans Outlook depuis hier,messagerie
+T00250,"Teams ne se connecte pas, je pense que c'est le wifi je suis en télétravail (3e fois cette semaine)",materiel
+T00174,Signature email à mettre à jour depuis hier,messagerie
+T00323,Je n'ai plus accès à ma boîte mail partagée (3e fois cette semaine) c'est bloquant,acces
+T00595,Mon poste fixe ne s'allume plus depuis ce matin depuis hier cordialement,materiel
+T00525,Mon PC portable fait un bruit étrange et chauffe urgent c'est bloquant,materiel
+T00423,Demande d'accès au dossier partagé Chrome c'est bloquant,acces
+T00596,Impossible d'installer Power BI sur mon poste ça marche plus pouvez-vous regarder,logiciel
+T00604,Je ne reçois plus d'emails dans Outlook svp,messagerie
+T00534,Impossible d'envoyer un mail avec une pièce jointe depuis hier c'est bloquant,messagerie
+T00265,L'écran de mon poste fixe reste noir pouvez-vous regarder urgent,materiel
+T00109,Ma boîte mail est pleine ça marche plus depuis hier,messagerie
+T00666,Impossible d'installer Teams sur mon poste depuis hier (3e fois cette semaine),logiciel
+T00294,Les invitations du calendrier n'arrivent pas pouvez-vous regarder je suis en télétravail,messagerie
+T00336,Excel affiche un message d'erreur au démarrage urgent,logiciel
+T00368,Compte bloqué après plusieurs tentatives c'est bloquant,acces
+T00446,Demande d'installation de Teams cordialement ça marche plus,logiciel
+T00333,Création de compte pour un nouvel arrivant pouvez-vous regarder ça marche plus,acces
+T00198,Réinitialisation de mon mot de passe svp c'est bloquant cordialement,acces
+T00168,Demande d'accès au dossier partagé SAP merci merci,acces
+T00481,Impossible d'installer Word sur mon poste merci merci,logiciel
+T00723,"Mot de passe expiré, je ne peux plus me connecter (3e fois cette semaine) urgent",acces
+T00655,Mon laptop fait un bruit étrange et chauffe c'est bloquant depuis hier,materiel
+T00306,Impossible d'installer Power BI sur mon poste merci,logiciel
+T00231,Excel affiche un message d'erreur au démarrage (3e fois cette semaine) c'est bloquant,logiciel
+T00422,Le wifi du open space coupe sans arrêt merci (3e fois cette semaine),reseau
+T00049,Je reçois beaucoup de spams depuis hier c'est bloquant,messagerie
+T00787,Le réseau est très lent au bureau je suis en télétravail cordialement,reseau
+T00357,Le réseau est très lent au site de Lyon c'est bloquant c'est bloquant,reseau
+T00086,Excel est très lent depuis la dernière version cordialement je suis en télétravail,logiciel
+T00545,Mon laptop fait un bruit étrange et chauffe merci,materiel
+T00192,Câble réseau défectueux au site de Lyon ça marche plus je suis en télétravail,reseau
+T00795,L'imprimante du bureau affiche un bourrage papier pouvez-vous regarder merci,materiel
+T00033,Compte bloqué après plusieurs tentatives ça marche plus depuis hier,acces
+T00031,Word plante à l'ouverture pouvez-vous regarder,logiciel
+T00199,"Teams ne se connecte pas, je pense que c'est le wifi c'est bloquant depuis hier",messagerie
+T00365,Mon poste fixe fait un bruit étrange et chauffe cordialement merci,materiel
+T00486,SAP plante à l'ouverture c'est bloquant,logiciel
+T00594,Impossible d'envoyer un mail avec une pièce jointe c'est bloquant urgent,messagerie
+T00568,Création de compte pour un nouvel arrivant svp depuis hier,acces
+T00428,"Mot de passe expiré, je ne peux plus me connecter svp c'est bloquant",acces
+T00137,Le réseau est très lent au siège cordialement (3e fois cette semaine),reseau
+T00072,Le réseau est très lent au open space c'est bloquant c'est bloquant,reseau
+T00077,Pas de connexion internet au open space cordialement svp,reseau
+T00512,Je n'arrive plus à me connecter à Outlook depuis mon nouveau PC svp cordialement,reseau
+T00783,"Mot de passe expiré, je ne peux plus me connecter depuis hier pouvez-vous regarder",acces
+T00786,La mise à jour de l'ERP a échoué pouvez-vous regarder cordialement,logiciel
+T00275,L'imprimante du open space affiche un bourrage papier pouvez-vous regarder depuis hier,materiel
+T00361,La mise à jour de Excel a échoué pouvez-vous regarder pouvez-vous regarder,logiciel
+T00096,Word plante à l'ouverture depuis hier (3e fois cette semaine),logiciel
+T00641,SAP est très lent depuis la dernière version svp cordialement,logiciel
+T00715,"Teams ne se connecte pas, je pense que c'est le wifi (3e fois cette semaine)",materiel
+T00281,L'imprimante réseau n'apparaît plus dans Word ça marche plus merci,logiciel
+T00393,Demande d'accès au dossier partagé Excel merci,acces
+T00628,Réinitialisation de mon mot de passe svp depuis hier depuis hier,acces
+T00608,Réinitialisation de mon mot de passe svp cordialement ça marche plus,acces
+T00705,Besoin d'un nouveau chargeur pour mon écran (3e fois cette semaine) merci,materiel
+T00754,Je ne reçois plus d'emails dans Outlook svp je suis en télétravail,messagerie
+T00054,Je ne reçois plus d'emails dans Outlook merci,messagerie
+T00750,L'écran de mon ordinateur reste noir (3e fois cette semaine) (3e fois cette semaine),materiel
+T00155,Mon mot de passe ne fonctionne plus sur le VPN merci ça marche plus,materiel
+T00432,Le VPN ne se connecte pas depuis chez moi cordialement ça marche plus,reseau
+T00097,Impossible d'accéder au lecteur réseau partagé cordialement urgent,reseau
+T00120,Mon écran ne s'allume plus depuis ce matin merci ça marche plus,materiel
+T00076,L'imprimante réseau n'apparaît plus dans Word je suis en télétravail,logiciel
+T00204,Les invitations du calendrier n'arrivent pas merci pouvez-vous regarder,messagerie
+T00352,Impossible d'accéder au lecteur réseau partagé je suis en télétravail (3e fois cette semaine),reseau
+T00764,Je ne reçois plus d'emails dans Outlook merci ça marche plus,messagerie
+T00208,Réinitialisation de mon mot de passe svp je suis en télétravail (3e fois cette semaine),acces
+T00367,Câble réseau défectueux au 3e étage c'est bloquant ça marche plus,reseau
+T00425,Mon PC portable fait un bruit étrange et chauffe (3e fois cette semaine) svp,materiel
+T00515,L'écran de mon laptop reste noir c'est bloquant c'est bloquant,materiel
+T00084,Je ne reçois plus d'emails dans Outlook je suis en télétravail (3e fois cette semaine),messagerie
+T00010,Le clavier du écran ne répond plus svp,materiel
+T00720,L'imprimante du open space affiche un bourrage papier (3e fois cette semaine) merci,materiel
+T00110,L'imprimante du siège affiche un bourrage papier (3e fois cette semaine),materiel
+T00521,Impossible d'installer l'ERP sur mon poste merci cordialement,reseau
+T00777,Impossible d'accéder au lecteur réseau partagé merci (3e fois cette semaine),reseau
+T00209,Les invitations du calendrier n'arrivent pas c'est bloquant urgent,messagerie
+T00235,L'écran de mon poste fixe reste noir je suis en télétravail ça marche plus,reseau
+T00316,Power BI affiche un message d'erreur au démarrage svp,logiciel
+T00388,Compte bloqué après plusieurs tentatives c'est bloquant c'est bloquant,acces
+T00118,Je n'ai pas les droits pour ouvrir Teams ça marche plus ça marche plus,acces
+T00719,Ma boîte mail est pleine svp merci,messagerie
+T00210,L'imprimante réseau n'apparaît plus dans Word pouvez-vous regarder merci,materiel
+T00254,Impossible d'envoyer un mail avec une pièce jointe cordialement c'est bloquant,messagerie
+T00591,Mon PC est lent quand j'ouvre Excel merci svp,logiciel
+T00029,Signature email à mettre à jour merci svp,messagerie
+T00266,SAP affiche un message d'erreur au démarrage depuis hier (3e fois cette semaine),logiciel
+T00656,La mise à jour de Chrome a échoué merci depuis hier,logiciel
+T00662,Pas de connexion internet au site de Lyon svp (3e fois cette semaine),reseau
+T00296,Demande d'installation de Excel pouvez-vous regarder svp,logiciel
+T00081,La mise à jour de Chrome a échoué cordialement urgent,logiciel
+T00688,Je n'ai pas les droits pour ouvrir l'ERP merci pouvez-vous regarder,acces
+T00302,Pas de connexion internet au 3e étage je suis en télétravail c'est bloquant,reseau
+T00506,Demande d'installation de l'ERP je suis en télétravail cordialement,logiciel
+T00758,Réinitialisation de mon mot de passe svp svp,acces
+T00314,Les invitations du calendrier n'arrivent pas ça marche plus,messagerie
+T00644,Signature email à mettre à jour cordialement merci,messagerie
+T00409,Je reçois beaucoup de spams depuis hier c'est bloquant pouvez-vous regarder,messagerie
+T00211,Demande d'installation de Word depuis hier ça marche plus,logiciel
+T00532,Le VPN ne se connecte pas depuis chez moi,reseau
+T00483,Création de compte pour un nouvel arrivant urgent urgent,acces
+T00218,Création de compte pour un nouvel arrivant (3e fois cette semaine) pouvez-vous regarder,acces
+T00007,Pas de connexion internet au site de Lyon merci c'est bloquant,reseau
+T00464,L'imprimante réseau n'apparaît plus dans Word urgent c'est bloquant,messagerie
+T00101,La mise à jour de Excel a échoué (3e fois cette semaine) depuis hier,reseau
+T00326,Impossible d'installer Teams sur mon poste pouvez-vous regarder je suis en télétravail,logiciel
+T00652,Le réseau est très lent au bureau,reseau
+T00537,Câble réseau défectueux au siège je suis en télétravail,reseau
+T00640,Mon écran ne s'allume plus depuis ce matin pouvez-vous regarder depuis hier,materiel
+T00002,Impossible d'accéder au lecteur réseau partagé c'est bloquant svp,reseau
+T00738,"Mot de passe expiré, je ne peux plus me connecter merci cordialement",acces
+T00776,SAP est très lent depuis la dernière version depuis hier cordialement,logiciel
+T00519,Impossible d'envoyer un mail avec une pièce jointe je suis en télétravail urgent,messagerie
+T00589,Signature email à mettre à jour urgent urgent,messagerie
+T00798,Compte bloqué après plusieurs tentatives je suis en télétravail merci,acces
+T00744,Je reçois beaucoup de spams depuis hier c'est bloquant depuis hier,messagerie
+T00513,Je n'ai pas les droits pour ouvrir Power BI merci ça marche plus,acces
+T00670,Mon PC portable ne s'allume plus depuis ce matin merci depuis hier,materiel
+T00264,Impossible d'envoyer un mail avec une pièce jointe,messagerie
+T00615,L'écran de mon laptop reste noir c'est bloquant (3e fois cette semaine),materiel
+T00329,Je n'ai plus accès à ma boîte mail partagée,messagerie
+T00342,Le wifi du open space coupe sans arrêt je suis en télétravail c'est bloquant,reseau
+T00394,Ma boîte mail est pleine urgent je suis en télétravail,messagerie
+T00079,Mon mot de passe ne fonctionne plus sur le VPN merci je suis en télétravail,messagerie
+T00148,Réinitialisation de mon mot de passe svp (3e fois cette semaine) c'est bloquant,acces
+T00350,Le clavier du laptop ne répond plus je suis en télétravail ça marche plus,materiel
+T00382,Pas de connexion internet au bureau merci ça marche plus,reseau
+T00440,L'imprimante du siège affiche un bourrage papier merci,materiel
+T00309,Ma boîte mail est pleine (3e fois cette semaine) cordialement,messagerie
+T00707,Pas de connexion internet au open space (3e fois cette semaine),reseau
+T00133,Je n'ai pas les droits pour ouvrir Word,acces
+T00381,Chrome est très lent depuis la dernière version svp c'est bloquant,logiciel
+T00213,"Mot de passe expiré, je ne peux plus me connecter merci cordialement",acces
+T00659,Je reçois beaucoup de spams depuis hier (3e fois cette semaine),messagerie
+T00055,Besoin d'un nouveau chargeur pour mon laptop merci c'est bloquant,materiel
+T00736,Je n'arrive plus à me connecter à Outlook depuis mon nouveau PC svp (3e fois cette semaine),logiciel
+T00620,Mon ordinateur fait un bruit étrange et chauffe je suis en télétravail je suis en télétravail,materiel
+T00582,Le VPN ne se connecte pas depuis chez moi c'est bloquant c'est bloquant,reseau
+T00673,Je n'ai pas les droits pour ouvrir SAP pouvez-vous regarder urgent,acces
+T00527,Le wifi du site de Lyon coupe sans arrêt cordialement c'est bloquant,reseau
+T00196,Power BI affiche un message d'erreur au démarrage merci cordialement,logiciel
+T00713,Demande d'accès au dossier partagé Chrome je suis en télétravail c'est bloquant,acces
+T00689,Signature email à mettre à jour cordialement urgent,messagerie
+T00060,Le clavier du poste fixe ne répond plus cordialement ça marche plus,materiel
+T00576,Power BI plante à l'ouverture (3e fois cette semaine) svp,logiciel
+T00631,Teams est très lent depuis la dernière version urgent ça marche plus,materiel
+T00431,Chrome plante à l'ouverture svp depuis hier,logiciel
+T00603,Compte bloqué après plusieurs tentatives ça marche plus cordialement,acces
+T00442,Pas de connexion internet au 3e étage c'est bloquant ça marche plus,reseau
+T00436,Demande d'installation de Excel merci svp,logiciel
+T00247,Le VPN ne se connecte pas depuis chez moi pouvez-vous regarder depuis hier,reseau
+T00586,Demande d'installation de Power BI c'est bloquant pouvez-vous regarder,logiciel
+T00569,Les invitations du calendrier n'arrivent pas pouvez-vous regarder merci,messagerie
+T00090,Le clavier du PC portable ne répond plus depuis hier cordialement,materiel
+T00650,Mon ordinateur fait un bruit étrange et chauffe (3e fois cette semaine) urgent,materiel
+T00181,Excel est très lent depuis la dernière version svp,logiciel
+T00790,Besoin d'un nouveau chargeur pour mon écran depuis hier cordialement,materiel
+T00554,Les invitations du calendrier n'arrivent pas (3e fois cette semaine) ça marche plus,messagerie
+T00290,L'écran de mon ordinateur reste noir svp ça marche plus,messagerie
+T00158,Compte bloqué après plusieurs tentatives urgent pouvez-vous regarder,acces
+T00069,Impossible d'envoyer un mail avec une pièce jointe je suis en télétravail svp,messagerie
+T00517,Impossible d'accéder au lecteur réseau partagé cordialement depuis hier,reseau
+T00131,Power BI affiche un message d'erreur au démarrage ça marche plus pouvez-vous regarder,logiciel
+T00044,Ma boîte mail est pleine merci,messagerie
+T00070,Le clavier du laptop ne répond plus pouvez-vous regarder merci,materiel
+T00691,Impossible d'installer Excel sur mon poste c'est bloquant cordialement,logiciel
+T00355,Le clavier du laptop ne répond plus pouvez-vous regarder urgent,materiel
+T00444,Impossible d'envoyer un mail avec une pièce jointe je suis en télétravail depuis hier,messagerie
+T00761,Impossible d'installer SAP sur mon poste urgent ça marche plus,logiciel
+T00135,L'imprimante réseau n'apparaît plus dans Word svp ça marche plus,materiel
+T00082,Impossible d'accéder au lecteur réseau partagé depuis hier merci,reseau
+T00165,L'imprimante du siège affiche un bourrage papier (3e fois cette semaine) c'est bloquant,materiel
+T00164,Impossible d'envoyer un mail avec une pièce jointe (3e fois cette semaine) pouvez-vous regarder,messagerie
+T00028,Je n'ai pas les droits pour ouvrir Power BI je suis en télétravail je suis en télétravail,acces
+T00448,Demande d'accès au dossier partagé Teams ça marche plus,acces
+T00193,Demande d'accès au dossier partagé Chrome ça marche plus ça marche plus,acces
+T00239,Signature email à mettre à jour urgent ça marche plus,messagerie
+T00724,Impossible d'envoyer un mail avec une pièce jointe c'est bloquant ça marche plus,messagerie
+T00730,L'imprimante du site de Lyon affiche un bourrage papier (3e fois cette semaine) je suis en télétravail,materiel
+T00136,Teams est très lent depuis la dernière version je suis en télétravail,logiciel
+T00664,Je ne reçois plus d'emails dans Outlook urgent je suis en télétravail,messagerie
+T00311,Je n'ai plus accès à ma boîte mail partagée urgent je suis en télétravail,logiciel
+T00140,L'imprimante du bureau affiche un bourrage papier (3e fois cette semaine),materiel
+T00473,Création de compte pour un nouvel arrivant c'est bloquant ça marche plus,acces
+T00006,Word est très lent depuis la dernière version svp merci,logiciel
+T00728,Je n'ai pas les droits pour ouvrir Teams svp svp,acces
+T00755,L'écran de mon ordinateur reste noir (3e fois cette semaine) ça marche plus,materiel
+T00073,Réinitialisation de mon mot de passe svp depuis hier c'est bloquant,reseau
+T00559,Ma boîte mail est pleine je suis en télétravail urgent,messagerie
+T00299,Ma boîte mail est pleine je suis en télétravail depuis hier,messagerie
+T00145,Besoin d'un nouveau chargeur pour mon poste fixe depuis hier ça marche plus,materiel
+T00292,Câble réseau défectueux au site de Lyon depuis hier merci,reseau
+T00234,Je ne reçois plus d'emails dans Outlook urgent merci,messagerie
+T00220,Le clavier du ordinateur ne répond plus pouvez-vous regarder cordialement,materiel
+T00450,L'imprimante du siège affiche un bourrage papier svp,materiel
+T00380,L'écran de mon laptop reste noir merci depuis hier,materiel
+T00132,Pas de connexion internet au 3e étage svp merci,reseau
+T00375,L'écran de mon écran reste noir je suis en télétravail urgent,materiel
+T00404,Ma boîte mail est pleine (3e fois cette semaine) depuis hier,messagerie
+T00522,Câble réseau défectueux au site de Lyon (3e fois cette semaine),reseau
+T00749,Les invitations du calendrier n'arrivent pas je suis en télétravail depuis hier,messagerie
+T00426,La mise à jour de Chrome a échoué pouvez-vous regarder svp,logiciel
+T00041,SAP plante à l'ouverture depuis hier (3e fois cette semaine),logiciel
+T00495,Mon écran fait un bruit étrange et chauffe depuis hier merci,materiel
+T00108,Réinitialisation de mon mot de passe svp merci,acces
+T00344,Signature email à mettre à jour depuis hier,messagerie
+T00056,SAP est très lent depuis la dernière version cordialement c'est bloquant,reseau
+T00259,L'imprimante réseau n'apparaît plus dans Word je suis en télétravail je suis en télétravail,messagerie
+T00479,Je reçois beaucoup de spams depuis hier merci ça marche plus,messagerie
+T00625,Besoin d'un nouveau chargeur pour mon PC portable cordialement c'est bloquant,materiel
+T00227,Mon PC est lent quand j'ouvre Excel cordialement,reseau
+T00212,Impossible d'accéder au lecteur réseau partagé ça marche plus cordialement,reseau
+T00593,Demande d'accès au dossier partagé Excel (3e fois cette semaine) je suis en télétravail,acces
+T00332,Le réseau est très lent au open space svp depuis hier,reseau
+T00024,Je reçois beaucoup de spams depuis hier (3e fois cette semaine) pouvez-vous regarder,messagerie
+T00780,Besoin d'un nouveau chargeur pour mon laptop (3e fois cette semaine) svp,materiel
+T00351,Teams est très lent depuis la dernière version c'est bloquant cordialement,logiciel
+T00356,Demande d'installation de Excel depuis hier merci,logiciel
+T00051,Impossible d'installer Power BI sur mon poste ça marche plus cordialement,logiciel
+T00331,Teams plante à l'ouverture cordialement depuis hier,logiciel
+T00733,Création de compte pour un nouvel arrivant depuis hier,acces
+T00629,Je reçois beaucoup de spams depuis hier je suis en télétravail merci,messagerie
+T00501,l'ERP affiche un message d'erreur au démarrage merci ça marche plus,logiciel
+T00334,Je ne reçois plus d'emails dans Outlook je suis en télétravail cordialement,messagerie
+T00285,Mon laptop fait un bruit étrange et chauffe cordialement depuis hier,logiciel
+T00018,Réinitialisation de mon mot de passe svp svp urgent,acces
+T00584,"Teams ne se connecte pas, je pense que c'est le wifi pouvez-vous regarder merci",messagerie
+T00748,Création de compte pour un nouvel arrivant cordialement,acces
+T00083,Réinitialisation de mon mot de passe svp c'est bloquant svp,acces
+T00061,La mise à jour de l'ERP a échoué urgent je suis en télétravail,logiciel
+T00462,Le VPN ne se connecte pas depuis chez moi merci je suis en télétravail,reseau
+T00291,SAP affiche un message d'erreur au démarrage svp,acces
+T00447,Impossible d'accéder au lecteur réseau partagé urgent,reseau
+T00182,Le VPN ne se connecte pas depuis chez moi merci,reseau
+T00549,Signature email à mettre à jour svp,messagerie
+T00500,Le clavier du écran ne répond plus pouvez-vous regarder je suis en télétravail,materiel
+T00223,"Mot de passe expiré, je ne peux plus me connecter cordialement urgent",acces
+T00424,Je ne reçois plus d'emails dans Outlook merci pouvez-vous regarder,messagerie
+T00467,Pas de connexion internet au 3e étage merci pouvez-vous regarder,reseau
+T00319,Ma boîte mail est pleine svp (3e fois cette semaine),messagerie
+T00328,Je n'ai plus accès à ma boîte mail partagée (3e fois cette semaine),acces
+T00443,"Mot de passe expiré, je ne peux plus me connecter urgent depuis hier",acces
+T00493,"Mot de passe expiré, je ne peux plus me connecter ça marche plus pouvez-vous regarder",acces
+T00176,Excel est très lent depuis la dernière version merci pouvez-vous regarder,logiciel
+T00676,Je n'arrive plus à me connecter à Outlook depuis mon nouveau PC ça marche plus pouvez-vous regarder,logiciel
+T00363,Création de compte pour un nouvel arrivant depuis hier c'est bloquant,acces
+T00163,Je n'ai pas les droits pour ouvrir Power BI merci merci,acces
+T00248,"Mot de passe expiré, je ne peux plus me connecter (3e fois cette semaine) pouvez-vous regarder",acces
+T00518,Compte bloqué après plusieurs tentatives depuis hier,acces
+T00710,L'écran de mon écran reste noir merci je suis en télétravail,materiel
+T00074,Les invitations du calendrier n'arrivent pas ça marche plus svp,messagerie
+T00643,Compte bloqué après plusieurs tentatives pouvez-vous regarder,acces
+T00405,L'imprimante du site de Lyon affiche un bourrage papier svp c'est bloquant,materiel
+T00104,Je reçois beaucoup de spams depuis hier svp je suis en télétravail,messagerie
+T00114,Impossible d'envoyer un mail avec une pièce jointe cordialement c'est bloquant,messagerie
+T00300,L'imprimante du site de Lyon affiche un bourrage papier (3e fois cette semaine) merci,materiel
+T00092,Le wifi du siège coupe sans arrêt je suis en télétravail ça marche plus,reseau
+T00411,Teams est très lent depuis la dernière version svp urgent,logiciel
+T00089,Je ne reçois plus d'emails dans Outlook je suis en télétravail c'est bloquant,messagerie
+T00528,Demande d'accès au dossier partagé Excel ça marche plus cordialement,acces
+T00734,Impossible d'envoyer un mail avec une pièce jointe pouvez-vous regarder svp,messagerie
+T00743,Demande d'accès au dossier partagé Teams merci c'est bloquant,acces
+T00575,Le clavier du ordinateur ne répond plus je suis en télétravail,materiel
+T00497,Câble réseau défectueux au 3e étage je suis en télétravail,reseau
+T00494,Les invitations du calendrier n'arrivent pas ça marche plus urgent,messagerie
+T00011,SAP affiche un message d'erreur au démarrage cordialement svp,logiciel
+T00433,Demande d'accès au dossier partagé Excel merci urgent,acces
+T00043,"Mot de passe expiré, je ne peux plus me connecter svp cordialement",acces
+T00042,Câble réseau défectueux au siège urgent depuis hier,reseau
+T00167,Le réseau est très lent au open space cordialement c'est bloquant,reseau
+T00703,Je n'ai pas les droits pour ouvrir Excel urgent urgent,acces
+T00613,Compte bloqué après plusieurs tentatives urgent pouvez-vous regarder,acces
+T00412,Impossible d'accéder au lecteur réseau partagé je suis en télétravail je suis en télétravail,reseau
+T00178,Réinitialisation de mon mot de passe svp je suis en télétravail merci,acces
+T00530,Mon PC est lent quand j'ouvre Excel depuis hier je suis en télétravail,materiel
+T00539,Impossible d'envoyer un mail avec une pièce jointe (3e fois cette semaine) svp,messagerie
+T00177,Le wifi du open space coupe sans arrêt cordialement (3e fois cette semaine),reseau
+T00665,Le clavier du laptop ne répond plus merci merci,materiel
+T00766,Je n'arrive plus à me connecter à Outlook depuis mon nouveau PC (3e fois cette semaine) je suis en télétravail,logiciel
+T00257,Le wifi du site de Lyon coupe sans arrêt pouvez-vous regarder ça marche plus,reseau
+T00765,L'imprimante du siège affiche un bourrage papier pouvez-vous regarder (3e fois cette semaine),materiel
+T00543,"Mot de passe expiré, je ne peux plus me connecter pouvez-vous regarder svp",acces
+T00015,Mon écran fait un bruit étrange et chauffe pouvez-vous regarder depuis hier,materiel
+T00003,Je n'ai pas les droits pour ouvrir SAP c'est bloquant cordialement,acces
+T00335,Besoin d'un nouveau chargeur pour mon PC portable (3e fois cette semaine) ça marche plus,materiel
+T00256,L'imprimante réseau n'apparaît plus dans Word c'est bloquant svp,logiciel
+T00580,L'imprimante du open space affiche un bourrage papier c'est bloquant je suis en télétravail,materiel
+T00445,Mon mot de passe ne fonctionne plus sur le VPN c'est bloquant svp,materiel
+T00338,Demande d'accès au dossier partagé Chrome je suis en télétravail pouvez-vous regarder,acces
+T00478,Création de compte pour un nouvel arrivant pouvez-vous regarder,acces
+T00417,Pas de connexion internet au open space (3e fois cette semaine) je suis en télétravail,reseau
+T00638,"Mot de passe expiré, je ne peux plus me connecter depuis hier svp",acces
+T00714,Signature email à mettre à jour pouvez-vous regarder depuis hier,messagerie
+T00324,Impossible d'envoyer un mail avec une pièce jointe svp ça marche plus,messagerie
+T00457,Le VPN ne se connecte pas depuis chez moi c'est bloquant je suis en télétravail,reseau
+T00009,Signature email à mettre à jour ça marche plus c'est bloquant,messagerie
+T00249,Je ne reçois plus d'emails dans Outlook urgent je suis en télétravail,messagerie
+T00022,Câble réseau défectueux au 3e étage c'est bloquant svp,reseau
+T00221,Chrome plante à l'ouverture c'est bloquant,logiciel
+T00547,Câble réseau défectueux au siège cordialement cordialement,reseau
+T00690,L'imprimante du siège affiche un bourrage papier je suis en télétravail depuis hier,materiel
+T00784,Je reçois beaucoup de spams depuis hier c'est bloquant (3e fois cette semaine),messagerie
+T00626,Teams affiche un message d'erreur au démarrage pouvez-vous regarder c'est bloquant,logiciel
+T00340,L'imprimante du bureau affiche un bourrage papier cordialement (3e fois cette semaine),materiel
+T00671,Excel est très lent depuis la dernière version depuis hier ça marche plus,logiciel
+T00203,Mon mot de passe ne fonctionne plus sur le VPN svp cordialement,acces
+T00237,Je n'arrive plus à me connecter à Outlook depuis mon nouveau PC c'est bloquant pouvez-vous regarder,reseau
+T00093,Je n'ai pas les droits pour ouvrir Excel depuis hier je suis en télétravail,acces
+T00531,Impossible d'installer SAP sur mon poste urgent,logiciel
+T00362,Impossible d'accéder au lecteur réseau partagé je suis en télétravail (3e fois cette semaine),reseau
+T00544,L'imprimante réseau n'apparaît plus dans Word ça marche plus merci,messagerie
+T00284,Je reçois beaucoup de spams depuis hier urgent,messagerie
+T00184,Signature email à mettre à jour ça marche plus merci,materiel
+T00649,Impossible d'envoyer un mail avec une pièce jointe (3e fois cette semaine) depuis hier,messagerie
+T00396,Demande d'installation de Excel svp c'est bloquant,logiciel
+T00153,Réinitialisation de mon mot de passe svp depuis hier,acces
+T00075,Le clavier du laptop ne répond plus c'est bloquant urgent,materiel
+T00453,Demande d'accès au dossier partagé Power BI svp,acces
+T00695,Mon poste fixe ne s'allume plus depuis ce matin urgent ça marche plus,materiel
+T00277,Le réseau est très lent au site de Lyon pouvez-vous regarder c'est bloquant,reseau
+T00068,Création de compte pour un nouvel arrivant ça marche plus ça marche plus,acces
+T00514,Mon mot de passe ne fonctionne plus sur le VPN urgent (3e fois cette semaine),messagerie
+T00188,Création de compte pour un nouvel arrivant je suis en télétravail merci,acces
+T00271,l'ERP plante à l'ouverture c'est bloquant urgent,logiciel
+T00236,Power BI affiche un message d'erreur au démarrage c'est bloquant cordialement,logiciel
+T00088,Réinitialisation de mon mot de passe svp cordialement svp,acces
+T00762,Câble réseau défectueux au siège pouvez-vous regarder urgent,reseau
+T00117,Je n'ai plus accès à ma boîte mail partagée ça marche plus je suis en télétravail,reseau
+T00125,Besoin d'un nouveau chargeur pour mon laptop ça marche plus cordialement,materiel
+T00660,Mon mot de passe ne fonctionne plus sur le VPN je suis en télétravail merci,materiel
+T00289,Je reçois beaucoup de spams depuis hier je suis en télétravail merci,messagerie
+T00238,"Mot de passe expiré, je ne peux plus me connecter (3e fois cette semaine) depuis hier",acces
+T00000,L'imprimante du site de Lyon affiche un bourrage papier merci je suis en télétravail,materiel
+T00791,Demande d'installation de SAP cordialement ça marche plus,logiciel
+T00602,Pas de connexion internet au siège urgent ça marche plus,reseau
+T00794,Impossible d'envoyer un mail avec une pièce jointe merci pouvez-vous regarder,messagerie
+T00465,Mon laptop fait un bruit étrange et chauffe (3e fois cette semaine) je suis en télétravail,materiel
+T00278,Je n'ai pas les droits pour ouvrir Word merci cordialement,acces
+T00624,Je reçois beaucoup de spams depuis hier (3e fois cette semaine),messagerie
+T00116,SAP affiche un message d'erreur au démarrage pouvez-vous regarder,logiciel
+T00228,Création de compte pour un nouvel arrivant c'est bloquant ça marche plus,acces
+T00756,Demande d'installation de Word (3e fois cette semaine),logiciel
+T00420,L'imprimante du bureau affiche un bourrage papier ça marche plus cordialement,logiciel
+T00434,Je ne reçois plus d'emails dans Outlook cordialement svp,messagerie
+T00274,Ma boîte mail est pleine je suis en télétravail je suis en télétravail,messagerie
+T00318,Création de compte pour un nouvel arrivant depuis hier,acces
+T00551,Impossible d'installer Teams sur mon poste svp merci,logiciel
+T00144,Signature email à mettre à jour svp urgent,messagerie
+T00648,"Mot de passe expiré, je ne peux plus me connecter ça marche plus",acces
+T00735,L'écran de mon écran reste noir urgent je suis en télétravail,materiel
+T00726,Impossible d'installer Excel sur mon poste depuis hier merci,messagerie
+T00585,Le clavier du poste fixe ne répond plus c'est bloquant c'est bloquant,materiel
+T00369,Signature email à mettre à jour svp svp,messagerie
+T00268,"Mot de passe expiré, je ne peux plus me connecter je suis en télétravail",acces
+T00567,Pas de connexion internet au site de Lyon ça marche plus svp,reseau
+T00307,Câble réseau défectueux au bureau (3e fois cette semaine),reseau
+T00310,Besoin d'un nouveau chargeur pour mon écran je suis en télétravail pouvez-vous regarder,materiel
+T00451,SAP est très lent depuis la dernière version cordialement (3e fois cette semaine),logiciel
+T00046,Impossible d'installer Chrome sur mon poste urgent pouvez-vous regarder,logiciel
+T00349,Impossible d'envoyer un mail avec une pièce jointe depuis hier c'est bloquant,messagerie
+T00371,Impossible d'installer Excel sur mon poste je suis en télétravail cordialement,logiciel
+T00523,"Teams ne se connecte pas, je pense que c'est le wifi c'est bloquant merci",acces
+T00261,Je n'ai plus accès à ma boîte mail partagée pouvez-vous regarder depuis hier,logiciel
+T00195,Mon écran fait un bruit étrange et chauffe je suis en télétravail svp,materiel
+T00799,Impossible d'envoyer un mail avec une pièce jointe pouvez-vous regarder pouvez-vous regarder,messagerie
+T00672,Câble réseau défectueux au siège cordialement ça marche plus,acces
+T00107,Pas de connexion internet au siège c'est bloquant merci,reseau
+T00059,Signature email à mettre à jour pouvez-vous regarder,messagerie
+T00599,Je ne reçois plus d'emails dans Outlook pouvez-vous regarder,messagerie
+T00439,Je ne reçois plus d'emails dans Outlook cordialement je suis en télétravail,messagerie
+T00100,Mon poste fixe fait un bruit étrange et chauffe merci merci,materiel
+T00477,Impossible d'accéder au lecteur réseau partagé c'est bloquant pouvez-vous regarder,reseau
+T00718,"Mot de passe expiré, je ne peux plus me connecter (3e fois cette semaine) svp",acces
+T00583,Mon PC est lent quand j'ouvre Excel je suis en télétravail,acces
+T00737,Mon PC est lent quand j'ouvre Excel je suis en télétravail cordialement,reseau
+T00179,Impossible d'envoyer un mail avec une pièce jointe depuis hier svp,messagerie
+T00304,Ma boîte mail est pleine urgent svp,messagerie
+T00429,Les invitations du calendrier n'arrivent pas pouvez-vous regarder c'est bloquant,messagerie
+T00507,Impossible d'accéder au lecteur réseau partagé urgent depuis hier,reseau
+T00770,Mon ordinateur fait un bruit étrange et chauffe ça marche plus merci,materiel
+T00149,Signature email à mettre à jour pouvez-vous regarder cordialement,messagerie
+T00124,Impossible d'envoyer un mail avec une pièce jointe urgent ça marche plus,messagerie
+T00634,Ma boîte mail est pleine pouvez-vous regarder depuis hier,messagerie
+T00697,Câble réseau défectueux au 3e étage pouvez-vous regarder depuis hier,messagerie
+T00185,Le clavier du écran ne répond plus depuis hier merci,materiel
+T00541,Demande d'installation de Power BI urgent pouvez-vous regarder,logiciel
+T00050,L'écran de mon poste fixe reste noir svp depuis hier,materiel
+T00487,L'imprimante réseau n'apparaît plus dans Word cordialement,reseau
+T00789,Ma boîte mail est pleine pouvez-vous regarder urgent,messagerie
+T00485,Besoin d'un nouveau chargeur pour mon poste fixe (3e fois cette semaine) ça marche plus,materiel
+T00321,SAP est très lent depuis la dernière version ça marche plus merci,logiciel
+T00353,Compte bloqué après plusieurs tentatives cordialement urgent,acces
+T00739,Les invitations du calendrier n'arrivent pas ça marche plus pouvez-vous regarder,messagerie
+T00142,Câble réseau défectueux au site de Lyon je suis en télétravail je suis en télétravail,reseau
+T00370,Le clavier du PC portable ne répond plus cordialement cordialement,materiel
+T00141,Demande d'installation de Word cordialement svp,logiciel
+T00399,Les invitations du calendrier n'arrivent pas merci cordialement,messagerie
+T00263,Réinitialisation de mon mot de passe svp cordialement pouvez-vous regarder,acces
+T00320,L'imprimante du 3e étage affiche un bourrage papier c'est bloquant ça marche plus,materiel
+T00019,Impossible d'envoyer un mail avec une pièce jointe ça marche plus,messagerie
+T00172,Le réseau est très lent au bureau merci depuis hier,reseau
+T00653,Création de compte pour un nouvel arrivant depuis hier urgent,acces
+T00312,Mon mot de passe ne fonctionne plus sur le VPN je suis en télétravail c'est bloquant,reseau
+T00390,Mon poste fixe fait un bruit étrange et chauffe merci ça marche plus,materiel
+T00745,Besoin d'un nouveau chargeur pour mon poste fixe (3e fois cette semaine) pouvez-vous regarder,materiel
+T00012,Câble réseau défectueux au open space pouvez-vous regarder pouvez-vous regarder,reseau
+T00407,Impossible d'accéder au lecteur réseau partagé urgent c'est bloquant,reseau
+T00408,Réinitialisation de mon mot de passe svp merci,acces
+T00305,Mon PC portable ne s'allume plus depuis ce matin pouvez-vous regarder c'est bloquant,materiel
+T00354,Les invitations du calendrier n'arrivent pas cordialement c'est bloquant,messagerie
+T00025,Mon PC est lent quand j'ouvre Excel cordialement,logiciel
+T00597,Pas de connexion internet au siège urgent pouvez-vous regarder,reseau
+T00169,Je ne reçois plus d'emails dans Outlook (3e fois cette semaine) pouvez-vous regarder,messagerie
+T00038,Réinitialisation de mon mot de passe svp cordialement svp,acces
+T00175,L'écran de mon poste fixe reste noir urgent urgent,materiel
+T00245,L'imprimante du 3e étage affiche un bourrage papier je suis en télétravail (3e fois cette semaine),materiel
+T00298,Compte bloqué après plusieurs tentatives ça marche plus,acces
+T00668,Je n'ai pas les droits pour ouvrir Teams svp je suis en télétravail,acces
+T00416,Demande d'installation de Teams depuis hier merci,logiciel
+T00548,"Mot de passe expiré, je ne peux plus me connecter (3e fois cette semaine) ça marche plus",acces
+T00272,Le réseau est très lent au siège urgent,reseau
+T00611,Impossible d'installer Word sur mon poste ça marche plus ça marche plus,logiciel
+T00154,Signature email à mettre à jour cordialement merci,messagerie
+T00126,Impossible d'installer Chrome sur mon poste cordialement,logiciel
+T00449,Je reçois beaucoup de spams depuis hier merci svp,messagerie
+T00571,Mon mot de passe ne fonctionne plus sur le VPN je suis en télétravail (3e fois cette semaine),logiciel
+T00341,Mon mot de passe ne fonctionne plus sur le VPN ça marche plus ça marche plus,logiciel
+T00430,L'imprimante du bureau affiche un bourrage papier je suis en télétravail c'est bloquant,materiel
+T00287,Le VPN ne se connecte pas depuis chez moi je suis en télétravail depuis hier,reseau
+T00113,Je n'ai pas les droits pour ouvrir Teams merci ça marche plus,acces
+T00499,Signature email à mettre à jour svp ça marche plus,messagerie
+T00173,Réinitialisation de mon mot de passe svp (3e fois cette semaine) (3e fois cette semaine),acces
+T00359,Je ne reçois plus d'emails dans Outlook merci svp,messagerie
+T00482,Le réseau est très lent au siège ça marche plus,reseau
+T00057,Pas de connexion internet au site de Lyon depuis hier pouvez-vous regarder,reseau
+T00552,Le réseau est très lent au 3e étage c'est bloquant,reseau
+T00222,Le réseau est très lent au open space cordialement,reseau
+T00280,L'imprimante du bureau affiche un bourrage papier svp,materiel
+T00017,Le VPN ne se connecte pas depuis chez moi pouvez-vous regarder urgent,acces
+T00127,Câble réseau défectueux au open space je suis en télétravail urgent,reseau
+T00322,Câble réseau défectueux au site de Lyon c'est bloquant,reseau
+T00255,L'écran de mon poste fixe reste noir merci depuis hier,materiel
+T00538,Création de compte pour un nouvel arrivant merci,acces
+T00470,L'imprimante du siège affiche un bourrage papier svp merci,materiel
+T00598,Compte bloqué après plusieurs tentatives pouvez-vous regarder je suis en télétravail,acces
+T00468,"Mot de passe expiré, je ne peux plus me connecter c'est bloquant je suis en télétravail",acces
+T00768,Demande d'accès au dossier partagé SAP svp,acces
+T00190,L'écran de mon PC portable reste noir je suis en télétravail merci,materiel
+T00115,L'imprimante du open space affiche un bourrage papier ça marche plus merci,materiel
+T00516,Je n'arrive plus à me connecter à Outlook depuis mon nouveau PC cordialement,logiciel
+T00709,Je ne reçois plus d'emails dans Outlook pouvez-vous regarder je suis en télétravail,messagerie
+T00535,L'imprimante du open space affiche un bourrage papier merci urgent,materiel
+T00094,Je reçois beaucoup de spams depuis hier pouvez-vous regarder cordialement,messagerie
+T00180,Besoin d'un nouveau chargeur pour mon PC portable (3e fois cette semaine) ça marche plus,materiel
+T00301,SAP plante à l'ouverture merci ça marche plus,logiciel
+T00616,Impossible d'installer Word sur mon poste urgent je suis en télétravail,logiciel
+T00581,Excel plante à l'ouverture urgent,materiel
+T00590,L'écran de mon ordinateur reste noir (3e fois cette semaine),materiel
+T00731,Teams plante à l'ouverture ça marche plus (3e fois cette semaine),logiciel
+T00558,Création de compte pour un nouvel arrivant pouvez-vous regarder je suis en télétravail,acces
+T00708,Demande d'accès au dossier partagé Excel svp pouvez-vous regarder,acces
+T00542,Impossible d'accéder au lecteur réseau partagé ça marche plus urgent,reseau
+T00005,Besoin d'un nouveau chargeur pour mon poste fixe c'est bloquant merci,materiel
+T00785,Besoin d'un nouveau chargeur pour mon PC portable je suis en télétravail ça marche plus,materiel
+T00045,Mon mot de passe ne fonctionne plus sur le VPN je suis en télétravail depuis hier,materiel
+T00725,Besoin d'un nouveau chargeur pour mon écran c'est bloquant urgent,materiel
+T00157,Impossible d'accéder au lecteur réseau partagé svp cordialement,reseau
+T00605,L'imprimante du site de Lyon affiche un bourrage papier,materiel
+T00171,SAP affiche un message d'erreur au démarrage urgent je suis en télétravail,logiciel
+T00016,l'ERP est très lent depuis la dernière version depuis hier je suis en télétravail,logiciel
+T00511,Chrome est très lent depuis la dernière version merci je suis en télétravail,logiciel
+T00048,"Mot de passe expiré, je ne peux plus me connecter pouvez-vous regarder c'est bloquant",acces
+T00774,Impossible d'envoyer un mail avec une pièce jointe ça marche plus (3e fois cette semaine),messagerie
+T00757,Câble réseau défectueux au site de Lyon (3e fois cette semaine) (3e fois cette semaine),reseau
+T00480,L'écran de mon ordinateur reste noir je suis en télétravail c'est bloquant,materiel
+T00283,Je n'ai pas les droits pour ouvrir Word merci je suis en télétravail,acces
+T00536,Demande d'installation de Word ça marche plus (3e fois cette semaine),logiciel
+T00225,L'imprimante du 3e étage affiche un bourrage papier ça marche plus,materiel
+T00026,Teams plante à l'ouverture urgent (3e fois cette semaine),logiciel
+T00630,L'imprimante du 3e étage affiche un bourrage papier cordialement pouvez-vous regarder,materiel
+T00437,Le VPN ne se connecte pas depuis chez moi urgent,reseau
+T00364,Je ne reçois plus d'emails dans Outlook svp pouvez-vous regarder,messagerie
+T00229,Les invitations du calendrier n'arrivent pas pouvez-vous regarder depuis hier,messagerie
+T00037,Pas de connexion internet au siège c'est bloquant je suis en télétravail,reseau
+T00779,Je reçois beaucoup de spams depuis hier urgent (3e fois cette semaine),messagerie
+T00374,Impossible d'envoyer un mail avec une pièce jointe c'est bloquant (3e fois cette semaine),messagerie
+T00469,Mon mot de passe ne fonctionne plus sur le VPN svp c'est bloquant,messagerie
+T00771,Excel est très lent depuis la dernière version je suis en télétravail pouvez-vous regarder,logiciel
+T00682,Le VPN ne se connecte pas depuis chez moi (3e fois cette semaine) ça marche plus,reseau
+T00694,Ma boîte mail est pleine je suis en télétravail,messagerie
+T00194,"Teams ne se connecte pas, je pense que c'est le wifi pouvez-vous regarder c'est bloquant",messagerie
+T00684,Ma boîte mail est pleine ça marche plus svp,messagerie
+T00693,"Mot de passe expiré, je ne peux plus me connecter merci svp",acces
+T00503,Compte bloqué après plusieurs tentatives (3e fois cette semaine) c'est bloquant,acces
+T00773,L'imprimante réseau n'apparaît plus dans Word urgent je suis en télétravail,acces
+T00669,Impossible d'envoyer un mail avec une pièce jointe ça marche plus pouvez-vous regarder,messagerie
+T00772,Mon mot de passe ne fonctionne plus sur le VPN je suis en télétravail (3e fois cette semaine),materiel
+T00162,Impossible d'accéder au lecteur réseau partagé,reseau
+T00751,Chrome affiche un message d'erreur au démarrage je suis en télétravail,logiciel
+T00152,Pas de connexion internet au 3e étage pouvez-vous regarder c'est bloquant,reseau
+T00557,Le VPN ne se connecte pas depuis chez moi c'est bloquant (3e fois cette semaine),reseau
+T00572,Câble réseau défectueux au siège cordialement pouvez-vous regarder,reseau
+T00675,Le clavier du laptop ne répond plus cordialement c'est bloquant,materiel
+T00111,Je n'arrive plus à me connecter à Outlook depuis mon nouveau PC (3e fois cette semaine) (3e fois cette semaine),logiciel
+T00226,Excel affiche un message d'erreur au démarrage depuis hier pouvez-vous regarder,logiciel
+T00792,Le VPN ne se connecte pas depuis chez moi svp,reseau
+T00103,Réinitialisation de mon mot de passe svp c'est bloquant depuis hier,acces
+T00421,La mise à jour de Teams a échoué je suis en télétravail c'est bloquant,logiciel
+T00419,Impossible d'envoyer un mail avec une pièce jointe merci svp,messagerie
+T00119,Je ne reçois plus d'emails dans Outlook depuis hier pouvez-vous regarder,messagerie
+T00053,Demande d'accès au dossier partagé l'ERP pouvez-vous regarder cordialement,acces
+T00151,La mise à jour de Teams a échoué ça marche plus merci,logiciel
+T00403,"Mot de passe expiré, je ne peux plus me connecter c'est bloquant cordialement",acces
+T00753,Demande d'accès au dossier partagé Word svp svp,acces
+T00207,Le réseau est très lent au 3e étage ça marche plus svp,reseau
+T00677,Pas de connexion internet au open space depuis hier (3e fois cette semaine),reseau
+T00618,Compte bloqué après plusieurs tentatives (3e fois cette semaine) merci,acces
+T00008,Demande d'accès au dossier partagé l'ERP je suis en télétravail depuis hier,acces
+T00651,Word plante à l'ouverture pouvez-vous regarder cordialement,logiciel
+T00036,"Teams ne se connecte pas, je pense que c'est le wifi svp c'est bloquant",logiciel
+T00452,Pas de connexion internet au siège ça marche plus pouvez-vous regarder,reseau
+T00253,Demande d'accès au dossier partagé Excel ça marche plus svp,acces
+T00303,Demande d'accès au dossier partagé Power BI je suis en télétravail pouvez-vous regarder,acces
+T00606,Demande d'installation de Excel depuis hier (3e fois cette semaine),logiciel
+T00579,Je ne reçois plus d'emails dans Outlook svp je suis en télétravail,messagerie
+T00587,Le VPN ne se connecte pas depuis chez moi merci,logiciel
+T00262,Pas de connexion internet au open space (3e fois cette semaine) je suis en télétravail,reseau
+T00297,Impossible d'accéder au lecteur réseau partagé merci je suis en télétravail,reseau
+T00414,Je ne reçois plus d'emails dans Outlook merci,logiciel
+T00150,Besoin d'un nouveau chargeur pour mon ordinateur depuis hier je suis en télétravail,materiel
+T00636,Demande d'installation de SAP merci depuis hier,logiciel
+T00712,Le wifi du siège coupe sans arrêt (3e fois cette semaine) ça marche plus,reseau
+T00550,Le clavier du poste fixe ne répond plus merci,materiel
+T00488,Demande d'accès au dossier partagé SAP je suis en télétravail merci,acces
+T00147,Câble réseau défectueux au siège depuis hier,reseau
+T00146,Word affiche un message d'erreur au démarrage svp je suis en télétravail,logiciel
+T00588,"Mot de passe expiré, je ne peux plus me connecter depuis hier svp",acces
+T00742,Impossible d'accéder au lecteur réseau partagé pouvez-vous regarder,reseau
+T00601,Teams est très lent depuis la dernière version cordialement pouvez-vous regarder,logiciel
+T00348,Création de compte pour un nouvel arrivant urgent urgent,acces
+T00463,Création de compte pour un nouvel arrivant merci cordialement,acces
+T00325,Besoin d'un nouveau chargeur pour mon poste fixe ça marche plus ça marche plus,materiel
+T00186,La mise à jour de SAP a échoué cordialement merci,logiciel
+T00123,"Mot de passe expiré, je ne peux plus me connecter depuis hier",acces
+T00683,Je n'ai plus accès à ma boîte mail partagée depuis hier depuis hier,materiel
+T00143,Compte bloqué après plusieurs tentatives (3e fois cette semaine) cordialement,acces
+T00763,L'imprimante réseau n'apparaît plus dans Word svp ça marche plus,acces
+T00197,Mon PC est lent quand j'ouvre Excel ça marche plus pouvez-vous regarder,reseau
+T00279,Les invitations du calendrier n'arrivent pas depuis hier pouvez-vous regarder,messagerie
+T00293,Création de compte pour un nouvel arrivant ça marche plus urgent,acces
+T00400,Le clavier du poste fixe ne répond plus urgent je suis en télétravail,materiel
+T00122,Le wifi du 3e étage coupe sans arrêt pouvez-vous regarder urgent,reseau
+T00183,Je n'ai pas les droits pour ouvrir Teams pouvez-vous regarder pouvez-vous regarder,acces
+T00202,Câble réseau défectueux au 3e étage je suis en télétravail pouvez-vous regarder,reseau
+T00438,Je n'ai pas les droits pour ouvrir Chrome urgent merci,acces
+T00246,Impossible d'installer Power BI sur mon poste pouvez-vous regarder urgent,materiel
+T00415,L'imprimante du bureau affiche un bourrage papier pouvez-vous regarder pouvez-vous regarder,materiel
+T00711,l'ERP est très lent depuis la dernière version merci urgent,logiciel
+T00129,Je ne reçois plus d'emails dans Outlook je suis en télétravail urgent,messagerie
+T00402,Le VPN ne se connecte pas depuis chez moi ça marche plus svp,reseau
+T00632,Impossible d'accéder au lecteur réseau partagé (3e fois cette semaine),reseau
+T00623,Je n'ai pas les droits pour ouvrir SAP merci depuis hier,acces
+T00727,Le réseau est très lent au 3e étage svp ça marche plus,reseau
+T00219,Je ne reçois plus d'emails dans Outlook (3e fois cette semaine),messagerie
+T00729,Je ne reçois plus d'emails dans Outlook merci merci,messagerie
+T00609,Les invitations du calendrier n'arrivent pas svp merci,messagerie
+T00732,Le wifi du 3e étage coupe sans arrêt merci merci,reseau
+T00617,L'imprimante réseau n'apparaît plus dans Word merci,reseau
+T00386,Word est très lent depuis la dernière version merci urgent,logiciel
+T00775,Le clavier du PC portable ne répond plus merci c'est bloquant,materiel
+T00509,Impossible d'envoyer un mail avec une pièce jointe c'est bloquant cordialement,messagerie
+T00267,Le VPN ne se connecte pas depuis chez moi depuis hier ça marche plus,reseau
+T00781,Demande d'installation de Teams merci svp,logiciel
+T00441,Impossible d'installer Word sur mon poste cordialement merci,logiciel
+T00496,Power BI affiche un message d'erreur au démarrage svp svp,logiciel
+T00112,Pas de connexion internet au bureau pouvez-vous regarder je suis en télétravail,reseau
+T00232,Mon mot de passe ne fonctionne plus sur le VPN c'est bloquant depuis hier,reseau
+T00698,Réinitialisation de mon mot de passe svp ça marche plus depuis hier,acces
+T00607,Impossible d'accéder au lecteur réseau partagé je suis en télétravail merci,reseau
+T00373,Compte bloqué après plusieurs tentatives merci svp,acces
+T00233,Création de compte pour un nouvel arrivant je suis en télétravail urgent,acces
+T00633,Création de compte pour un nouvel arrivant (3e fois cette semaine),acces
+T00317,Le VPN ne se connecte pas depuis chez moi svp (3e fois cette semaine),reseau
+T00410,Le clavier du écran ne répond plus je suis en télétravail pouvez-vous regarder,materiel
+T00717,Câble réseau défectueux au siège urgent merci,reseau
+T00358,"Mot de passe expiré, je ne peux plus me connecter c'est bloquant pouvez-vous regarder",acces
+T00258,Je n'ai pas les droits pour ouvrir Power BI ça marche plus svp,acces
+T00627,Impossible d'accéder au lecteur réseau partagé svp c'est bloquant,reseau
+T00282,Câble réseau défectueux au siège je suis en télétravail ça marche plus,reseau
+T00376,Power BI est très lent depuis la dernière version ça marche plus (3e fois cette semaine),logiciel
+T00384,Les invitations du calendrier n'arrivent pas (3e fois cette semaine),messagerie
+T00224,Je ne reçois plus d'emails dans Outlook je suis en télétravail ça marche plus,messagerie
+T00759,Je reçois beaucoup de spams depuis hier je suis en télétravail,messagerie
+T00657,Le wifi du open space coupe sans arrêt urgent ça marche plus,reseau
+T00472,Le réseau est très lent au siège svp urgent,reseau
+T00347,Impossible d'accéder au lecteur réseau partagé c'est bloquant merci,messagerie
+T00505,Mon laptop fait un bruit étrange et chauffe svp cordialement,materiel
+T00639,Je reçois beaucoup de spams depuis hier c'est bloquant pouvez-vous regarder,messagerie
+T00788,Réinitialisation de mon mot de passe svp cordialement merci,acces
+T00740,L'imprimante du 3e étage affiche un bourrage papier ça marche plus c'est bloquant,materiel
+T00722,Le réseau est très lent au bureau je suis en télétravail (3e fois cette semaine),reseau
+T00619,Je n'ai plus accès à ma boîte mail partagée merci merci,messagerie
+T00685,Le clavier du laptop ne répond plus cordialement,materiel
+T00645,Besoin d'un nouveau chargeur pour mon ordinateur depuis hier urgent,materiel
+T00678,Compte bloqué après plusieurs tentatives c'est bloquant c'est bloquant,acces
+T00556,Demande d'installation de Chrome (3e fois cette semaine) svp,logiciel
+T00577,Pas de connexion internet au bureau depuis hier,reseau
+T00085,Mon écran ne s'allume plus depuis ce matin cordialement merci,materiel
+T00242,Le wifi du site de Lyon coupe sans arrêt pouvez-vous regarder urgent,reseau
+T00159,Impossible d'envoyer un mail avec une pièce jointe svp (3e fois cette semaine),messagerie
+T00524,Je reçois beaucoup de spams depuis hier depuis hier,messagerie
+T00035,Je n'ai plus accès à ma boîte mail partagée pouvez-vous regarder urgent,materiel
+T00540,L'imprimante du siège affiche un bourrage papier c'est bloquant je suis en télétravail,materiel
+T00170,Besoin d'un nouveau chargeur pour mon poste fixe c'est bloquant,materiel
+T00654,Je reçois beaucoup de spams depuis hier cordialement urgent,messagerie
+T00687,Le wifi du open space coupe sans arrêt svp c'est bloquant,reseau
+T00679,Ma boîte mail est pleine merci c'est bloquant,messagerie
+T00752,Le VPN ne se connecte pas depuis chez moi ça marche plus je suis en télétravail,reseau
+T00095,Le clavier du laptop ne répond plus svp cordialement,materiel
+T00563,"Mot de passe expiré, je ne peux plus me connecter urgent",acces
+T00240,Mon poste fixe ne s'allume plus depuis ce matin depuis hier depuis hier,materiel
+T00574,Les invitations du calendrier n'arrivent pas cordialement cordialement,messagerie
+T00460,L'écran de mon PC portable reste noir (3e fois cette semaine),materiel
+T00553,Création de compte pour un nouvel arrivant pouvez-vous regarder urgent,acces
+T00704,Je ne reçois plus d'emails dans Outlook je suis en télétravail ça marche plus,acces
+T00206,Impossible d'installer Teams sur mon poste ça marche plus,logiciel
+T00392,Le réseau est très lent au site de Lyon (3e fois cette semaine) ça marche plus,reseau
+T00397,L'imprimante réseau n'apparaît plus dans Word (3e fois cette semaine) svp,reseau
+T00680,L'imprimante du siège affiche un bourrage papier depuis hier je suis en télétravail,materiel
+T00217,Impossible d'accéder au lecteur réseau partagé svp c'est bloquant,reseau
+T00004,Impossible d'envoyer un mail avec une pièce jointe cordialement cordialement,messagerie
+T00642,Le réseau est très lent au bureau c'est bloquant je suis en télétravail,reseau
+T00716,SAP est très lent depuis la dernière version cordialement,logiciel
+T00612,"Teams ne se connecte pas, je pense que c'est le wifi (3e fois cette semaine) urgent",reseau
+T00546,La mise à jour de Excel a échoué (3e fois cette semaine) (3e fois cette semaine),logiciel
+T00098,Demande d'accès au dossier partagé l'ERP pouvez-vous regarder depuis hier,materiel
+T00573,Compte bloqué après plusieurs tentatives pouvez-vous regarder pouvez-vous regarder,acces
+T00406,Word affiche un message d'erreur au démarrage ça marche plus je suis en télétravail,logiciel
+T00502,Pas de connexion internet au site de Lyon je suis en télétravail depuis hier,reseau
+T00047,Pas de connexion internet au siège depuis hier cordialement,reseau
+T00032,Pas de connexion internet au open space c'est bloquant,reseau
+T00200,Le clavier du écran ne répond plus urgent cordialement,materiel
+T00134,Impossible d'envoyer un mail avec une pièce jointe pouvez-vous regarder c'est bloquant,messagerie
+T00027,Impossible d'accéder au lecteur réseau partagé merci je suis en télétravail,reseau
+T00706,l'ERP plante à l'ouverture ça marche plus je suis en télétravail,logiciel
+T00230,Mon laptop ne s'allume plus depuis ce matin pouvez-vous regarder depuis hier,materiel
+T00489,Ma boîte mail est pleine c'est bloquant (3e fois cette semaine),messagerie
+T00378,Création de compte pour un nouvel arrivant ça marche plus urgent,acces
+T00288,Création de compte pour un nouvel arrivant svp urgent,acces
+T00418,"Mot de passe expiré, je ne peux plus me connecter (3e fois cette semaine) urgent",acces
+T00674,Je reçois beaucoup de spams depuis hier pouvez-vous regarder depuis hier,messagerie
+T00391,Demande d'installation de Word c'est bloquant svp,logiciel
+T00592,Câble réseau défectueux au site de Lyon svp merci,reseau
+T00498,"Mot de passe expiré, je ne peux plus me connecter (3e fois cette semaine) depuis hier",reseau
+T00138,Demande d'accès au dossier partagé l'ERP c'est bloquant ça marche plus,acces
+T00062,Pas de connexion internet au siège svp je suis en télétravail,reseau
+T00471,Chrome plante à l'ouverture cordialement,logiciel
+T00647,Le wifi du 3e étage coupe sans arrêt merci merci,reseau
+T00128,Je n'ai pas les droits pour ouvrir Teams merci ça marche plus,acces
+T00778,Création de compte pour un nouvel arrivant depuis hier c'est bloquant,acces
+T00520,Le clavier du laptop ne répond plus c'est bloquant,materiel
+T00064,Les invitations du calendrier n'arrivent pas ça marche plus c'est bloquant,messagerie
+T00014,Les invitations du calendrier n'arrivent pas urgent je suis en télétravail,messagerie
+T00156,l'ERP plante à l'ouverture svp urgent,acces
+T00040,Je n'arrive plus à me connecter à Outlook depuis mon nouveau PC urgent cordialement,materiel
+T00492,Impossible d'accéder au lecteur réseau partagé svp,reseau
+T00379,Je ne reçois plus d'emails dans Outlook pouvez-vous regarder depuis hier,messagerie
+T00187,Le réseau est très lent au open space c'est bloquant depuis hier,reseau
+T00216,Excel est très lent depuis la dernière version pouvez-vous regarder (3e fois cette semaine),logiciel
+T00052,Le VPN ne se connecte pas depuis chez moi depuis hier merci,reseau
+T00337,Le VPN ne se connecte pas depuis chez moi c'est bloquant merci,reseau
+T00295,L'écran de mon ordinateur reste noir ça marche plus pouvez-vous regarder,materiel
+T00701,Teams affiche un message d'erreur au démarrage pouvez-vous regarder c'est bloquant,logiciel
+T00251,Word affiche un message d'erreur au démarrage ça marche plus je suis en télétravail,logiciel
+T00461,Impossible d'installer SAP sur mon poste ça marche plus urgent,logiciel
+T00455,Je n'arrive plus à me connecter à Outlook depuis mon nouveau PC urgent merci,materiel
+T00797,Impossible d'accéder au lecteur réseau partagé svp cordialement,reseau
+T00269,Je reçois beaucoup de spams depuis hier (3e fois cette semaine) ça marche plus,messagerie
+T00201,Teams affiche un message d'erreur au démarrage pouvez-vous regarder c'est bloquant,logiciel
+T00161,La mise à jour de Word a échoué pouvez-vous regarder svp,logiciel
+T00555,Besoin d'un nouveau chargeur pour mon ordinateur merci c'est bloquant,materiel
+T00401,Demande d'installation de Excel urgent ça marche plus,logiciel
+T00702,Le wifi du open space coupe sans arrêt depuis hier cordialement,reseau
+T00476,Word plante à l'ouverture pouvez-vous regarder c'est bloquant,logiciel
+T00105,L'écran de mon poste fixe reste noir merci urgent,materiel
+T00565,L'écran de mon écran reste noir depuis hier je suis en télétravail,materiel
+T00389,Les invitations du calendrier n'arrivent pas cordialement ça marche plus,messagerie
+T00001,Demande d'installation de Excel svp pouvez-vous regarder,reseau
+T00767,Le wifi du 3e étage coupe sans arrêt c'est bloquant depuis hier,reseau
+T00561,Chrome est très lent depuis la dernière version je suis en télétravail pouvez-vous regarder,logiciel
+T00080,Mon PC portable ne s'allume plus depuis ce matin svp urgent,materiel
+T00205,Besoin d'un nouveau chargeur pour mon écran (3e fois cette semaine) c'est bloquant,materiel
+T00034,Les invitations du calendrier n'arrivent pas (3e fois cette semaine),messagerie
+T00508,"Mot de passe expiré, je ne peux plus me connecter urgent je suis en télétravail",acces
+T00427,Le wifi du bureau coupe sans arrêt cordialement,reseau
+T00454,Je reçois beaucoup de spams depuis hier urgent cordialement,messagerie
+T00366,Mon mot de passe ne fonctionne plus sur le VPN je suis en télétravail urgent,logiciel
+T00091,l'ERP affiche un message d'erreur au démarrage svp merci,logiciel
+T00339,Impossible d'envoyer un mail avec une pièce jointe merci pouvez-vous regarder,messagerie
+T00564,L'imprimante réseau n'apparaît plus dans Word je suis en télétravail pouvez-vous regarder,messagerie
+T00345,Mon poste fixe fait un bruit étrange et chauffe c'est bloquant ça marche plus,materiel
+T00241,Impossible d'installer Word sur mon poste svp urgent,logiciel
+T00013,Demande d'accès au dossier partagé Power BI urgent pouvez-vous regarder,acces
+T00315,Besoin d'un nouveau chargeur pour mon laptop depuis hier svp,materiel
+T00600,Le clavier du écran ne répond plus c'est bloquant svp,materiel
+T00387,Le réseau est très lent au 3e étage urgent cordialement,reseau
+T00273,Réinitialisation de mon mot de passe svp c'est bloquant cordialement,acces
+T00166,Word plante à l'ouverture ça marche plus svp,logiciel
+T00793,"Mot de passe expiré, je ne peux plus me connecter urgent svp",acces
+T00646,Demande d'installation de Power BI depuis hier svp,logiciel
+T00484,Je reçois beaucoup de spams depuis hier merci depuis hier,messagerie
+T00782,Impossible d'accéder au lecteur réseau partagé je suis en télétravail svp,reseau
+T00504,Signature email à mettre à jour depuis hier depuis hier,messagerie
+T00243,Réinitialisation de mon mot de passe svp ça marche plus pouvez-vous regarder,acces
+T00566,Power BI plante à l'ouverture cordialement pouvez-vous regarder,logiciel
+T00562,Le VPN ne se connecte pas depuis chez moi je suis en télétravail,logiciel
+T00686,Excel plante à l'ouverture ça marche plus urgent,logiciel
+T00189,Je reçois beaucoup de spams depuis hier je suis en télétravail urgent,messagerie
+T00699,Je reçois beaucoup de spams depuis hier depuis hier pouvez-vous regarder,messagerie
+T00475,L'écran de mon laptop reste noir depuis hier (3e fois cette semaine),materiel
+T00681,Demande d'installation de Word urgent urgent,logiciel
+T00510,Le clavier du poste fixe ne répond plus je suis en télétravail,materiel
+T00058,Demande d'accès au dossier partagé SAP svp c'est bloquant,acces
+T00474,Les invitations du calendrier n'arrivent pas c'est bloquant cordialement,messagerie
+T00560,L'imprimante du siège affiche un bourrage papier merci cordialement,materiel
+T00747,Le réseau est très lent au siège pouvez-vous regarder pouvez-vous regarder,reseau
+T00252,Impossible d'accéder au lecteur réseau partagé je suis en télétravail c'est bloquant,reseau
+T00021,Word plante à l'ouverture urgent urgent,logiciel
+T00313,Réinitialisation de mon mot de passe svp urgent pouvez-vous regarder,acces
+T00459,Signature email à mettre à jour depuis hier urgent,messagerie
+T00160,Mon PC est lent quand j'ouvre Excel merci merci,materiel
+T00276,Impossible d'installer Word sur mon poste ça marche plus cordialement,logiciel
+T00191,Impossible d'installer Power BI sur mon poste (3e fois cette semaine) je suis en télétravail,logiciel
+T00385,Le clavier du écran ne répond plus depuis hier depuis hier,materiel
+T00413,"Mot de passe expiré, je ne peux plus me connecter svp",acces
+T00491,Mon PC est lent quand j'ouvre Excel urgent pouvez-vous regarder,logiciel
+T00343,"Mot de passe expiré, je ne peux plus me connecter urgent c'est bloquant",acces
+T00769,Je reçois beaucoup de spams depuis hier (3e fois cette semaine),messagerie
+T00308,Je n'ai pas les droits pour ouvrir l'ERP svp pouvez-vous regarder,messagerie
+T00661,La mise à jour de SAP a échoué depuis hier cordialement,logiciel
+T00130,Mon laptop ne s'allume plus depuis ce matin je suis en télétravail merci,materiel
+T00663,Réinitialisation de mon mot de passe svp ça marche plus ça marche plus,acces
+T00099,Signature email à mettre à jour ça marche plus ça marche plus,reseau
+T00372,Impossible d'accéder au lecteur réseau partagé ça marche plus (3e fois cette semaine),reseau
+T00087,Le réseau est très lent au 3e étage depuis hier (3e fois cette semaine),reseau
+T00458,Je n'ai pas les droits pour ouvrir Teams cordialement svp,acces
+T00330,Mon PC est lent quand j'ouvre Excel urgent merci,materiel
+T00214,Ma boîte mail est pleine urgent urgent,messagerie
+T00466,"Teams ne se connecte pas, je pense que c'est le wifi cordialement depuis hier",logiciel
+T00121,Power BI plante à l'ouverture ça marche plus ça marche plus,logiciel
+T00614,Les invitations du calendrier n'arrivent pas depuis hier merci,messagerie
+T00020,Mon poste fixe ne s'allume plus depuis ce matin (3e fois cette semaine) merci,materiel
+T00700,Le clavier du laptop ne répond plus (3e fois cette semaine),materiel
+T00071,Impossible d'installer Teams sur mon poste merci c'est bloquant,logiciel
+T00106,Power BI plante à l'ouverture depuis hier ça marche plus,acces
+T00270,L'écran de mon écran reste noir je suis en télétravail svp,materiel
+T00435,Mon poste fixe fait un bruit étrange et chauffe je suis en télétravail depuis hier,materiel
+T00102,Pas de connexion internet au siège (3e fois cette semaine) svp,reseau

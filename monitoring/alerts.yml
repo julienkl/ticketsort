@@ -1,0 +1,28 @@
+# C11 - Alertes sur le modèle et le service (visibles dans Prometheus > Alerts)
+groups:
+  - name: ticketsort
+    rules:
+      - alert: TauxFaibleConfianceEleve
+        expr: rate(ticketsort_low_confidence_total[15m]) / sum(rate(ticketsort_predictions_total[15m])) > 0.25
+        for: 10m
+        labels: { severity: warning }
+        annotations:
+          summary: "Plus de 25 % des prédictions sous le seuil de confiance : dérive possible, réentraînement à envisager"
+      - alert: LatenceElevee
+        expr: histogram_quantile(0.95, sum(rate(ticketsort_latency_seconds_bucket{endpoint="/predict"}[5m])) by (le)) > 0.5
+        for: 5m
+        labels: { severity: warning }
+        annotations:
+          summary: "Latence p95 de /predict au-dessus de 500 ms"
+      - alert: ErreursServeur
+        expr: sum(rate(ticketsort_requests_total{status=~"5.."}[5m])) > 0
+        for: 2m
+        labels: { severity: critical }
+        annotations:
+          summary: "L'API renvoie des erreurs 5xx"
+      - alert: ApiInjoignable
+        expr: up{job="ticketsort-api"} == 0
+        for: 1m
+        labels: { severity: critical }
+        annotations:
+          summary: "Prometheus n'arrive plus à joindre l'API"

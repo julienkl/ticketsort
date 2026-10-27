@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+coverage.xml
+.venv/
+mlruns/
+data/raw/
+data/processed/
+models/
+reports/*.json
+reports/*.md
+reports/*.txt
+monitoring/predictions.jsonl
+monitoring/drift_report.json
