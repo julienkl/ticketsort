@@ -1,0 +1,41 @@
+# Variante pour GitHub Codespaces, où les conteneurs ne peuvent pas communiquer par le réseau interne de Docker
+# (diagnostic : `curl http://api:8000` depuis un autre conteneur -> timeout ; `--network host` -> OK).
+# Tous les services partagent le réseau du Codespace et se joignent via localhost.
+# Lancer : docker compose -f docker-compose.codespaces.yml up -d --build
+services:
+  api:
+    build: .
+    image: ticketsort-api:local
+    network_mode: host
+    environment:
+      API_KEYS: ${API_KEYS:?définir API_KEYS dans .env}
+      LOW_CONFIDENCE: ${LOW_CONFIDENCE:-0.5}
+    volumes:
+      - ./monitoring:/app/monitoring
+
+  app:
+    build: { context: ., dockerfile: app/Dockerfile }
+    network_mode: host
+    environment:
+      API_URL: http://localhost:8000
+      APP_API_KEY: ${APP_API_KEY:?définir APP_API_KEY dans .env}
+    depends_on: [api]
+
+  prometheus:
+    image: prom/prometheus:v2.54.1
+    network_mode: host
+    volumes:
+      - ./monitoring/host/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./monitoring/alerts.yml:/etc/prometheus/alerts.yml:ro
+    depends_on: [api]
+
+  grafana:
+    image: grafana/grafana:11.2.0
+    network_mode: host
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_PASSWORD:-admin}
+    volumes:
+      - ./monitoring/host/grafana-datasources:/etc/grafana/provisioning/datasources:ro
+      - ./monitoring/grafana/provisioning/dashboards:/etc/grafana/provisioning/dashboards:ro
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards:ro
+    depends_on: [prometheus]
