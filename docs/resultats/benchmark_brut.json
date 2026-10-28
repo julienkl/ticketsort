@@ -1,0 +1,45 @@
+[
+  {
+    "candidat": "baseline_nb",
+    "f1_macro": 0.6711,
+    "latence_ms": 0.026,
+    "cout_eur_1k": 0.0,
+    "kg_co2": 2.783779239880933e-07,
+    "donnees": "restent en local",
+    "entrainement": "requis",
+    "n_evalues": 9568
+  },
+  {
+    "candidat": "tfidf_logreg",
+    "f1_macro": 0.8661,
+    "latence_ms": 0.057,
+    "cout_eur_1k": 0.0,
+    "kg_co2": 2.784153549813086e-05,
+    "donnees": "restent en local",
+    "entrainement": "requis",
+    "n_evalues": 9568
+  },
+  {
+    "candidat": "tfidf_logreg_meme_echantillon",
+    "n_evalues": 80,
+    "f1_macro": 0.9254,
+    "latence_ms": 0.057,
+    "cout_eur_1k": 0.0,
+    "kg_co2": null,
+    "donnees": "restent en local",
+    "entrainement": "requis"
+  },
+  {
+    "candidat": "claude_zero_shot (claude-haiku-5-5)",
+    "f1_macro": 0.4746,
+    "latence_ms": 1053.8,
+    "cout_eur_1k": 0.016,
+    "kg_co2": null,
+    "donnees": "envoyées à un fournisseur externe (Anthropic)",
+    "entrainement": "aucun",
+    "n_evalues": 80,
+    "tokens_moyens_entree": 147.0,
+    "tokens_moyens_sortie": 5.4,
+    "reponses_non_reconnues": 3
+  }
+]
