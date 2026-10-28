@@ -16,14 +16,19 @@ def check(metrics: dict, min_f1: float) -> bool:
     return metrics["f1_macro"] >= min_f1
 
 
-if __name__ == "__main__":
+def main(argv=None) -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--min-f1", type=float, default=0.80)
-    a = p.parse_args()
-    meta = json.loads((ROOT / "reports" / "metrics.json").read_text(encoding="utf-8"))
+    p.add_argument("--metrics", default=str(ROOT / "reports" / "metrics.json"))
+    a = p.parse_args(argv)
+    meta = json.loads(Path(a.metrics).read_text(encoding="utf-8"))
     f1 = meta["metrics"]["f1_macro"]
     if check(meta["metrics"], a.min_f1):
         print(f"OK : F1 macro {f1} >= seuil {a.min_f1} (modèle {meta['version']})")
-        sys.exit(0)
+        return 0
     print(f"ÉCHEC : F1 macro {f1} < seuil {a.min_f1} — livraison bloquée")
-    sys.exit(1)
+    return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

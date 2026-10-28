@@ -24,7 +24,7 @@ jobs:
         with: { python-version: "3.12", cache: pip }
       - run: pip install -r requirements.txt
       - name: Tests données, modèle, API, app, dérive
-        run: pytest -v --cov=src --cov=api --cov=app --cov=monitoring --cov-report=term --cov-report=xml
+        run: pytest -v --cov=src --cov=api --cov=app --cov=monitoring --cov-report=term --cov-report=xml --cov-fail-under=75
       - uses: actions/upload-artifact@v4
         with: { name: coverage, path: coverage.xml }
 
