@@ -14,3 +14,4 @@ reports/*.md
 reports/*.txt
 monitoring/predictions.jsonl
 monitoring/drift_report.json
+mlflow.db

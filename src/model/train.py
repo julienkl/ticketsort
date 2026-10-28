@@ -1,6 +1,8 @@
 """Entraînement et évaluation du modèle retenu (TF-IDF + régression logistique).
 
-Usage : python -m src.model.train
+Usage :
+    python -m src.model.train                         # paramètres par défaut (modèle retenu)
+    python -m src.model.train --C 1 --ngram-max 1     # essai d'autres hyperparamètres (tracé dans MLflow)
 Sorties :
     models/model.joblib         modèle versionné (pipeline complet + métadonnées)
     reports/metrics.json        métriques d'évaluation (lues par la CI et par /model/info)
@@ -9,6 +11,7 @@ Si MLflow est installé et MLFLOW_TRACKING_URI défini, le run y est aussi enreg
 """
 from __future__ import annotations
 
+import argparse
 import hashlib
 import json
 import os
@@ -55,21 +58,26 @@ def _data_hash(df: pd.DataFrame) -> str:
     return hashlib.sha256(pd.util.hash_pandas_object(df, index=False).values.tobytes()).hexdigest()[:12]
 
 
-def train() -> dict:
+def train(params: dict | None = None) -> dict:
+    params = {**PARAMS, **(params or {})}
     train_df = pd.read_csv(PROCESSED / "train.csv")
     test_df = pd.read_csv(PROCESSED / "test.csv")
 
-    model = build_pipeline()
+    t0 = time.perf_counter()
+    model = build_pipeline(params)
     model.fit(train_df["texte"], train_df["categorie"])
+    duree_entrainement = time.perf_counter() - t0
     metrics = evaluate(model, test_df)
+    metrics["duree_entrainement_s"] = round(duree_entrainement, 2)
 
     version = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
     meta = {
         "version": version,
         "algo": "tfidf+logreg",
-        "params": {k: list(v) if isinstance(v, tuple) else v for k, v in PARAMS.items()},
+        "params": {k: list(v) if isinstance(v, tuple) else v for k, v in params.items()},
         "classes": sorted(model.classes_.tolist()),
         "train_data_hash": _data_hash(train_df),
+        "n_train": int(len(train_df)),
         "metrics": metrics,
     }
     MODELS.mkdir(exist_ok=True)
@@ -97,7 +105,9 @@ def _log_mlflow(meta: dict) -> None:
     except ImportError:
         return
     mlflow.set_experiment("ticketsort")
-    with mlflow.start_run(run_name=f"tfidf-logreg-{meta['version']}"):
+    with mlflow.start_run(run_name=f"tfidf-logreg-C{meta['params']['C']}-ngram{meta['params']['ngram_range'][1]}"):
+        mlflow.set_tags({"algo": meta["algo"], "version_modele": meta["version"],
+                         "train_data_hash": meta["train_data_hash"], "n_train": meta["n_train"]})
         mlflow.log_params({k: str(v) for k, v in meta["params"].items()})
         mlflow.log_metrics({k: v for k, v in meta["metrics"].items() if isinstance(v, (int, float))})
         mlflow.log_artifact(str(MODELS / "model.joblib"))
@@ -105,4 +115,9 @@ def _log_mlflow(meta: dict) -> None:
 
 
 if __name__ == "__main__":
-    train()
+    ap = argparse.ArgumentParser(description="Entraînement TicketSort")
+    ap.add_argument("--C", type=float, default=PARAMS["C"], help="inverse de la régularisation")
+    ap.add_argument("--ngram-max", type=int, default=PARAMS["ngram_range"][1], help="1 = mots seuls, 2 = + paires de mots")
+    ap.add_argument("--min-df", type=int, default=PARAMS["min_df"], help="fréquence minimale d'un mot")
+    a = ap.parse_args()
+    train({"C": a.C, "ngram_range": (1, a.ngram_max), "min_df": a.min_df})
