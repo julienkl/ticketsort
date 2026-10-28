@@ -1,0 +1,15 @@
+{
+  "n_total": 47837,
+  "n_train": 38269,
+  "n_test": 9568,
+  "classes": {
+    "hardware": 13617,
+    "hr support": 10915,
+    "access": 7125,
+    "miscellaneous": 7060,
+    "storage": 2777,
+    "purchase": 2464,
+    "internal project": 2119,
+    "administrative rights": 1760
+  }
+}

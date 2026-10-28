@@ -1,0 +1,31 @@
+{
+  "version": "20261028084656",
+  "algo": "tfidf+logreg",
+  "params": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 1,
+    "sublinear_tf": true,
+    "C": 5.0,
+    "max_iter": 1000
+  },
+  "classes": [
+    "access",
+    "administrative rights",
+    "hardware",
+    "hr support",
+    "internal project",
+    "miscellaneous",
+    "purchase",
+    "storage"
+  ],
+  "train_data_hash": "d36b6c55380c",
+  "metrics": {
+    "f1_macro": 0.8661,
+    "accuracy": 0.867,
+    "latence_ms_par_ticket": 0.0566,
+    "n_test": 9568
+  }
+}
