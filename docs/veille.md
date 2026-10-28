@@ -6,12 +6,7 @@
 
 ## Organisation
 
-| Élément | Choix |
-|---|---|
-| Outil de collecte | *[Feedly ou Inoreader — capture de l'abonnement aux flux à joindre]* |
-| Rythme | 1 h par semaine, le lundi ; synthèse mensuelle |
-| Stockage | Ce fichier (une fiche datée par semaine) |
-| Diffusion | Synthèse mensuelle partagée au tuteur |
+| Outil de collecte | Inoreader (gratuit), dossier « Veille RNCP – TicketSort » : arXiv cs.CL, Hugging Face Blog, scikit-learn (versions), CNIL |
 
 ## Sources retenues et qualification
 
