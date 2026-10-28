@@ -12,22 +12,16 @@ import streamlit as st
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from app.client import ApiError, classify  # noqa: E402
 
-# File de traitement associée à chaque catégorie prédite.
-# Catégories du dataset réel (IT Service Ticket Classification, Kaggle) + catégories du jeu synthétique de test.
+# File de traitement associée à chaque catégorie du modèle (dataset IT Service Ticket Classification, Kaggle).
 FILES = {
-    "hardware": "Équipe Proximité (matériel)",
     "access": "Équipe Identités & Accès",
     "administrative rights": "Équipe Identités & Accès (droits admin)",
-    "storage": "Équipe Stockage & Sauvegarde",
-    "purchase": "Service Achats IT",
+    "hardware": "Équipe Proximité (matériel)",
     "hr support": "Support RH",
     "internal project": "Équipe Projets internes",
     "miscellaneous": "Support niveau 1 (tri manuel)",
-    "materiel": "Équipe Proximité (matériel)",
-    "logiciel": "Équipe Applications",
-    "reseau": "Équipe Réseau & Télécom",
-    "acces": "Équipe Identités & Accès",
-    "messagerie": "Équipe Collaboration",
+    "purchase": "Service Achats IT",
+    "storage": "Équipe Stockage & Sauvegarde",
 }
 FILE_PAR_DEFAUT = "Support niveau 1 (tri manuel)"
 
@@ -49,9 +43,10 @@ if submitted:
         st.error(f"⚠️ {exc} Vous pouvez choisir la catégorie manuellement ci-dessous.")
         res = None
 
-    # Les catégories proposées sont celles que connaît le modèle (renvoyées par l'API), sinon la liste locale.
+    # Catégories connues du modèle (renvoyées par l'API) ; en mode dégradé, liste de référence locale.
     categories = sorted(res.probabilites) if res else sorted(FILES)
-    default = categories.index(res.categorie) if res and res.categorie in categories else 0
+    # En mode dégradé, aucune catégorie n'est présélectionnée : l'utilisateur doit choisir lui-même.
+    default = categories.index(res.categorie) if res and res.categorie in categories else None
     if res:
         if res.a_verifier:
             st.warning(f"⚠️ Confiance faible ({res.confiance:.0%}) : vérifiez la catégorie. Le ticket sera relu par un humain.")
@@ -60,5 +55,9 @@ if submitted:
         st.bar_chart(res.probabilites)
         st.caption(f"Modèle version {res.version_modele}")
 
-    choix = st.selectbox("Catégorie (modifiable)", categories, index=default)
-    st.info(f"File de traitement : **{FILES.get(choix, FILE_PAR_DEFAUT)}**")
+    choix = st.selectbox("Catégorie (modifiable)", categories, index=default,
+                         placeholder="Choisissez une catégorie")
+    if choix:
+        st.info(f"File de traitement : **{FILES.get(choix, FILE_PAR_DEFAUT)}**")
+    else:
+        st.caption("Sélectionnez une catégorie pour connaître la file de traitement.")
