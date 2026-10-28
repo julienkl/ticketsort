@@ -3,7 +3,7 @@ groups:
   - name: ticketsort
     rules:
       - alert: TauxFaibleConfianceEleve
-        expr: rate(ticketsort_low_confidence_total[15m]) / sum(rate(ticketsort_predictions_total[15m])) > 0.25
+        expr: sum(rate(ticketsort_low_confidence_total[15m])) / sum(rate(ticketsort_predictions_total[15m])) > 0.25
         for: 10m
         labels: { severity: warning }
         annotations:

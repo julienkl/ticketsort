@@ -14,10 +14,13 @@ from __future__ import annotations
 import argparse
 import json
 import math
+import re
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+# Même découpage en mots que le TfidfVectorizer de scikit-learn (token_pattern par défaut).
+_MOT = re.compile(r"(?u)\b\w\w+\b")
 THRESHOLDS = {"psi_classes": 0.2, "taux_hors_vocabulaire": 0.30, "ecart_longueur_relatif": 0.5, "taux_faible_confiance": 0.25}
 
 
@@ -39,7 +42,7 @@ def compute(records: list[dict], ref: dict, low_conf: float = 0.5) -> dict:
     oov = tokens = 0
     for r in records:
         counts[r["categorie"]] = counts.get(r["categorie"], 0) + 1
-        for w in r["texte"].split():
+        for w in _MOT.findall(r["texte"].lower()):
             tokens += 1
             oov += w not in vocab
     dist = {k: v / n for k, v in counts.items()}

@@ -86,7 +86,8 @@ def train(params: dict | None = None) -> dict:
     # Statistiques de référence pour la détection de dérive (C11)
     ref = {"longueur_moy": float(train_df["texte"].str.len().mean()),
            "distribution_classes": train_df["categorie"].value_counts(normalize=True).round(4).to_dict(),
-           "vocabulaire": sorted(model.named_steps["tfidf"].vocabulary_)[:20000]}
+           # vocabulaire de référence : tous les mots simples appris (les paires de mots sont exclues)
+           "vocabulaire": sorted(w for w in model.named_steps["tfidf"].vocabulary_ if " " not in w)}
     (MODELS / "reference_stats.json").write_text(json.dumps(ref, ensure_ascii=False), encoding="utf-8")
     (REPORTS / "metrics.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
     (REPORTS / "classification_report.txt").write_text(
